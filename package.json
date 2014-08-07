@@ -1,7 +1,7 @@
 {
   "name": "gulp-sails-linker",
   "description": "Autoinsert script tags in an html file",
-  "version": "0.1.7",
+  "version": "0.0.1",
   "homepage": "https://github.com/filipsobczak/gulp-linker",
   "contributors": [
     "Filip Sobczak <filsob@gmail.com> (http://filipsobczak.com)",
