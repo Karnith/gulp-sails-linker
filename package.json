@@ -1,5 +1,5 @@
 {
-  "name": "gulp-linker",
+  "name": "gulp-sails-linker",
   "description": "Autoinsert script tags in an html file",
   "version": "0.1.7",
   "homepage": "https://github.com/filipsobczak/gulp-linker",
